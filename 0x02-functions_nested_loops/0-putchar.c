@@ -2,7 +2,7 @@
  * main function prints _putchar
  */
 
-#include " main.h"
+#include "main.h"
 
 int main(void)
 
